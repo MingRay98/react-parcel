@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Create a react app by parcel",
   "main": "index.js",
-  "homepage": "http://mingray98.github.io/react-parcel",
+  "homepage": "http://mingray98.github.io/react-parcel/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel -p 8080 index.html",
